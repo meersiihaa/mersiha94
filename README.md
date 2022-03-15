@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mersiha94
-- 👀 I’m interested in painting
-- 🌱 I’m currently learning programming in C# and Javascript
+- 👀 I’m interested in reading and painting
+- 🌱 I’m currently studying computer science/web development
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me mersiha_muratovic@hotmail.se
 
